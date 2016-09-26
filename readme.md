@@ -13,7 +13,7 @@ const astToGedcom = require('generate-gedcom')
 This module exports a single function that takes an array of GEDCOM data and returns a string.
 
 
-# Esample
+# Example
 
 <!--js
 const astToGedcom = require('./')
